@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.component {
+    width: 350px;
+    margin: auto;
+    background-color:hsl(0, 0%, 100%);
+    padding: 1.25rem;
+    border-radius: 1.5rem;
+}
+
+.qr-code {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+h1, p {
+    margin: 1.25rem;
+}
+h1 {
+    font-size: 1.5rem;
+    color: hsl(218, 44%, 22%); 
+    
+}
+
+.attribution {
+    position: absolute;
+    bottom: .3rem;
+
+}
