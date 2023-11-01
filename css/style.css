@@ -17,7 +17,7 @@ body {
 }
 
 .component {
-    width: 325px;
+    width: 300px;
     margin: auto;
     background-color:hsl(0, 0%, 100%);
     padding: 1rem;
@@ -30,10 +30,10 @@ body {
 }
 
 h1, p {
-    margin: 1.25rem;
+    margin: 1rem;
 }
 h1 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     color: hsl(218, 44%, 22%); 
     
 }
